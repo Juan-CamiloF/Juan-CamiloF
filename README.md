@@ -1,4 +1,4 @@
-# Repositorio Juan Camilo Fandiño Benavides
+# Repositorio personal
 
 ## Estudiante de ingeniería de sistemas
 ---
