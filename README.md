@@ -1,6 +1,6 @@
 # Repositorio personal
 
-## Estudiante de ingeniería de sistemas
+## Ingeniero de sistemas
 ---
 ### Lenguajes de programación
 <p>
