@@ -143,7 +143,7 @@ Systems Engineer with 4+ years of experience in software development, specialize
 
 ## Education
 
-**Systems Engineering** · Fundación Universitaria Los Libertadores · *2019 – 2024*
+**Software Engineering** · Fundación Universitaria Los Libertadores · *2019 – 2024*
 > Multiple academic distinctions for GPA excellence.
 
 ---
